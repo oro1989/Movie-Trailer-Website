@@ -1,4 +1,4 @@
-# ud036_StarterCode
+# Movie Trailer Website Project
 <ul>
 <li>-This Movie Trailer Website Project is part of Udacity's Full Stack Nanodegree program</li>
 <li>-You should have python installed to run this program</li>
